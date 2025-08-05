@@ -93,10 +93,9 @@ In real-time power trading, price volatility and demand-supply imbalances create
 
 ## 📬 Contact
 
-**Author**: Mnys  
-📧 *Add your email here*  
-🌐 *[LinkedIn Profile](https://www.linkedin.com/)*  
-💻 *[GitHub](https://github.com/yourprofile)*
+**Author**:  K Mahesh Kumar 
+📧 *manishsuryavanshi524@gmail.com  
+🌐 *[LinkedIn Profile](www.linkedin.com/in/mahesh-kumar-27051m)*  
 
 ---
 
@@ -104,5 +103,3 @@ In real-time power trading, price volatility and demand-supply imbalances create
 
 ✅ Completed initial version  
 🔁 Improvements & hyperparameter tuning planned  
-📊 Power BI dashboard integration in progress
-
