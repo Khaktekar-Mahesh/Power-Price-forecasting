@@ -94,7 +94,7 @@ In real-time power trading, price volatility and demand-supply imbalances create
 ## 📬 Contact
 
 **Author**:  K Mahesh Kumar 
-📧 *manishsuryavanshi524@gmail.com  
+📧 manishsuryavanshi524@gmail.com  
 🌐 *[LinkedIn Profile](www.linkedin.com/in/mahesh-kumar-27051m)*  
 
 ---
